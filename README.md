@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently preparing machine learning challenges, maintaining [ramp.studio](ramp.studio) and contributing to [scikit-learn]<https://github.com/scikit-learn/scikit-learn>
+🔭 I’m currently preparing machine learning challenges, maintaining [ramp.studio](ramp.studio) and contributing to [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 💬 Ask me about Python, git, PhD, computational neuroscience, research or, if you wish so, a life of a foreigner in Paris
 
