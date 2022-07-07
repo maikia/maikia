@@ -3,7 +3,7 @@
 <!-- Welcome to my github page. -->
 My name is Maria.
 
-I am a machine learning engineer with extensive experience in neuroscience and research.
+I am a Data Scientist with extensive experience in neuroscience, research and Software Development.
 
 I am passionate about both: science and programming and I am sharing those passions through various channels (teaching, Native Scientist, Software Carpentry and of course Pyladies).
 
